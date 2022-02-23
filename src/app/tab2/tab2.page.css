@@ -7,9 +7,14 @@ img {
 
 ion-card {
   border-radius: 3%;
+  background: rgba(156, 20, 84, 0.596);
 }
 
 ion-card ion-card-title {
   text-align: center;
+}
+
+ion-icon {
+  color: #b10d59;
 }
 /*# sourceMappingURL=tab2.page.css.map */

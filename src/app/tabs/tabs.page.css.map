@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AACA,AAAA,QAAQ,CAAA;EACJ,KAAK,EAAE,OAAgB;CAC1B",
     "sources": [
         "tabs.page.scss"
     ],
