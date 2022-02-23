@@ -1,0 +1,7 @@
+{
+  "name": "FotosIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
