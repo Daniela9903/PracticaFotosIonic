@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,GAAG,CAAA;EACC,aAAa,EAAE,GAAG;EAClB,MAAM,EAAE,MAAM;EACd,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;CAChB;;AAGD,AAAA,QAAQ,CAAA;EACJ,aAAa,EAAE,EAAE;CAMpB;;AAPD,AAEI,QAFI,CAEJ,cAAc,CAAA;EACV,UAAU,EAAE,MAAM;CAErB",
+    "sources": [
+        "tab2.page.scss"
+    ],
+    "names": [],
+    "file": "tab2.page.css"
+}
