@@ -1,4 +1,17 @@
 ion-icon {
   color: #a80765;
 }
+
+ion-card {
+  border-radius: 3%;
+  background: rgba(156, 20, 84, 0.596);
+}
+
+ion-card-title {
+  color: azure;
+}
+
+ion-card {
+  margin-top: 20px;
+}
 /*# sourceMappingURL=tab1.page.css.map */
